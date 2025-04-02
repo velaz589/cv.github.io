@@ -1,7 +1,7 @@
 
 <center>
 <img src="./Imagen/prueba1_imagen.jpg" width="400" height="400" />
-<center> Imagen propia
+</center> 
 
 ---
 
