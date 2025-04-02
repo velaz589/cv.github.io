@@ -1,4 +1,4 @@
 # Vida y obra de Vela 589
-##Intereses:
+## Intereses:
   - Bussiness Inteligence
   - Finanzas
