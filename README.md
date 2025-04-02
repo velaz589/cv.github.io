@@ -1,8 +1,8 @@
-<img src="./Imagen/prueba1_imagen.jpg" />
+<img src="./Imagen/prueba1_imagen.jpg" width="400" height="400" />
 
 # Presentacion
-  Hola y bienvenido a mi página de presentación todavia en construcción.
-  durantes los proximos meses aqui se añadira todo tipo de contenido referente a mi persona.
+  Hola y bienvenido a mi página de presentación todavía en construcción.
+  Durantes los próximos meses aquí se añadirá todo tipo de contenido referente a mi persona.
   Espero lo encuentres interesante.
 
 ## Intereses:
