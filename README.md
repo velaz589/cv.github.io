@@ -1,6 +1,6 @@
 
 <center>
-![](https://github.com/velaz589/cv.github.io/blob/main/Imagen/prueba1_imagen.jpg)
+<img src="./Imagen/prueba1_imagen.jpg" width="400" height="400" />
 <center>
 
 ---
